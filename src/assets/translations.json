@@ -1,0 +1,53 @@
+{
+  "pt": {
+    "menu": {
+      "pt": "Português",
+      "en": "Inglês",
+      "es": "Espanhol"
+    },
+    "inputPlaceholder": "Digite um usuário do Github",
+    "notFound": "Nenhum perfil foi encontrado com ese nome de usuário.",
+    "tryAgain": "Tente novamente",
+    "search": "Buscar",
+    "followers": "Seguidores",
+    "following": "Seguindo",
+    "repositories": "Repositórios",
+    "loading": "Carregando...",
+    "viewProfile": "Ver perfil do GitHub",
+    "textErrorGitHubUserRequired": "Nome de usuário do GitHub é obrigatório."
+  },
+  "en": {
+    "menu": {
+      "pt": "Portuguese",
+      "en": "English",
+      "es": "Spanish"
+    },
+    "inputPlaceholder": "Enter a GitHub username",
+    "notFound": "No profile was found with this username.",
+    "tryAgain": "Try again",
+    "search": "Search",
+    "followers": "Followers",
+    "following": "Following",
+    "repositories": "Repositories",
+    "loading": "Loading...",
+    "viewProfile": "View GitHub Profile",
+    "textErrorGitHubUserRequired": "GitHub username is required."
+  },
+  "es": {
+    "menu": {
+      "pt": "Portugués",
+      "en": "Inglés",
+      "es": "Español"
+    },
+    "inputPlaceholder": "Nombre de usuario de GitHub",
+    "notFound": "No se encontró ningún perfil con este nombre de usuario.",
+    "tryAgain": "Inténtalo de nuevo",
+    "search": "Buscar",
+    "followers": "Seguidores",
+    "following": "Siguiendo",
+    "repositories": "Repositorios",
+    "loading": "Cargando...",
+    "viewProfile": "Ver perfil de GitHub",
+    "textErrorGitHubUserRequired": "Se requiere nombre de usuario de GitHub."
+  }
+}
