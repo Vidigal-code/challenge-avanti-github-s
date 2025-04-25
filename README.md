@@ -15,7 +15,7 @@ A aplicação **Pesquisa de Perfil do GitHub** é uma ferramenta web desenvolvid
 
 **📱 Versão Mobile:**
 
-![Mobile](assets/example/Desing-Avanti-Mobile.gif)
+![Mobile](https://github.com/Vidigal-code/challenge-avanti-github-s/blob/main/public/example/Desing-Avanti-Mobile.gif?raw=true)
 ---
 
 ## Funcionalidades
