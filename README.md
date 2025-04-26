@@ -5,18 +5,40 @@
 A aplicação **Pesquisa de Perfil do GitHub** é uma ferramenta web desenvolvida em React que permite aos usuários buscar e visualizar perfis de usuários do GitHub. Ela oferece uma interface responsiva e personalizável com recursos como modo escuro, suporte a múltiplos idiomas e busca dinâmica de dados de perfil diretamente da API do GitHub.
 
 ---
-
-### 🖼️ Layout
+### 🖼️ Layout - Avanti
 
 **🔍 Versão Desktop:**
 
 ![Desktop](https://github.com/Vidigal-code/challenge-avanti-github-s/blob/main/public/example/Desing-Avanti-Desktop.gif?raw=true)
----
 
 **📱 Versão Mobile:**
 
 ![Mobile](https://github.com/Vidigal-code/challenge-avanti-github-s/blob/main/public/example/Desing-Avanti-Mobile.gif?raw=true)
+
 ---
+
+**Design Avanti**: [✅ Design Avanti](https://vidigal-code.github.io/challenge-avanti-github-s/)
+  - Visual fiel ao Figma.
+  - Este é o ambiente padrão sem sistema de tradução.
+
+---
+### 🖼️ Layout - By Vidigal
+
+**🔍 Versão Desktop:**
+
+![Desktop](https://github.com/Vidigal-code/challenge-avanti-github-s/blob/version-project-by-vidigal/public/example/Desing-By-Vidigal-Desktop.gif?raw=true)
+---
+
+**📱 Versão Mobile:**
+
+![Mobile](https://github.com/Vidigal-code/challenge-avanti-github-s/blob/version-project-by-vidigal/public/example/Desing-By-Vidigal-Mobile.gif?raw=true)
+---
+
+**Design By Vidiga**: [✅ Design By Vidigal](https://challenge-avanti-github-7tqeedibz-kauan-vidigals-projects.vercel.app)
+  - Sistema de tradução integrado.
+  - Modo claro e escuro.
+---
+
 
 ## Funcionalidades
 
