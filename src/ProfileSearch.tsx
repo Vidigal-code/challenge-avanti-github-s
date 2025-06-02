@@ -132,7 +132,7 @@ const ProfileSearch: React.FC = () => {
                             isDarkMode ? 'bg-gray-800 border-gray-700' : 'bg-white border-gray-300'
                         }`}>
                             {Object.entries(translations[language as keyof typeof translations].menu).map(([code, label]) => (
-                                <li
+                                <button
                                     key={code}
                                     className={`px-4 py-2 cursor-pointer ${
                                         isDarkMode
@@ -145,7 +145,7 @@ const ProfileSearch: React.FC = () => {
                                     }}
                                 >
                                     {label}
-                                </li>
+                                </button>
                             ))}
                         </ul>
                     </div>
