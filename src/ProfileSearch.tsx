@@ -122,7 +122,7 @@ const ProfileSearch: React.FC = () => {
 
                         <ul className={`absolute w-full border rounded-md shadow-lg mt-2 z-10 ${isOpenLang ? 'block' : 'hidden'} ${isDarkMode ? 'bg-gray-800' : 'bg-white'}`}>
                             {Object.entries(translations[language as keyof typeof translations].menu).map(([code, label]) => (
-                                <li
+                                <button
                                     key={code}
                                     className={`px-4 py-2 cursor-pointer hover:bg-gray-200 ${isDarkMode ? "hover:bg-gray-700 text-white" : "text-black hover:bg-gray-100"}`}
                                     onClick={() => {
@@ -131,7 +131,7 @@ const ProfileSearch: React.FC = () => {
                                     }}
                                 >
                                     {label}
-                                </li>
+                                </button>
                             ))}
                         </ul>
                     </div>
